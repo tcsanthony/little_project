@@ -1,2 +1,2 @@
 # little_project
-Little project for fun!
+Little project just for fun!
